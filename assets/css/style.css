@@ -1,0 +1,20 @@
+.jumbotron {
+	background-color: #3b3b3b;
+	margin-top: 200px;
+	color: white;
+	font-family: 'Cinzel', serif;
+}
+
+body {
+	background-image: url(http://www.billboard.com/files/styles/article_main_image/public/media/beyonce-tour-bb5-topline-2016-billboard-650.jpg);
+	font-family: 'Cinzel', serif;
+}
+
+iframe {
+	width:0; 
+	height:0; 
+	border:0; 
+	border:none;
+
+
+}
